@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "vmware/database-stream-processor",
+    "stargazers_count": 44,
+    "open_issues_count": 31,
+    "forks_count": 6
+  },
+  {
     "full_name": "21cmfast/21cmFAST",
     "stargazers_count": 30,
     "open_issues_count": 52,
@@ -13,7 +19,7 @@
   },
   {
     "full_name": "google/fleetbench",
-    "stargazers_count": 27,
+    "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -27,7 +33,7 @@
     "full_name": "gdtk-uq/gdtk",
     "stargazers_count": 10,
     "open_issues_count": 6,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "abetten/orbiter",
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "karanpratapsingh/go-course",
-    "stargazers_count": 295,
+    "stargazers_count": 300,
     "open_issues_count": 0,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "trolando/sylvan",
@@ -91,13 +97,13 @@
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 101237,
-    "open_issues_count": 7782,
-    "forks_count": 15062
+    "stargazers_count": 101284,
+    "open_issues_count": 7788,
+    "forks_count": 15067
   },
   {
     "full_name": "jrincayc/ucblogo-code",
-    "stargazers_count": 123,
+    "stargazers_count": 122,
     "open_issues_count": 16,
     "forks_count": 24
   },
@@ -121,8 +127,8 @@
   },
   {
     "full_name": "equalitie/ouinet",
-    "stargazers_count": 91,
-    "open_issues_count": 10,
+    "stargazers_count": 92,
+    "open_issues_count": 11,
     "forks_count": 8
   },
   {
@@ -151,13 +157,13 @@
   },
   {
     "full_name": "alibaba/clusterdata",
-    "stargazers_count": 1005,
+    "stargazers_count": 1007,
     "open_issues_count": 59,
     "forks_count": 309
   },
   {
     "full_name": "cosmograph-org/cosmos",
-    "stargazers_count": 79,
+    "stargazers_count": 80,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 10,
     "open_issues_count": 1,
     "forks_count": 9
-  },
-  {
-    "full_name": "WenzheLiu-Speech/awesome-speech-enhancement",
-    "stargazers_count": 475,
-    "open_issues_count": 0,
-    "forks_count": 151
   }
 ]
