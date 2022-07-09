@@ -38,7 +38,7 @@
   {
     "full_name": "vmware/database-stream-processor",
     "stargazers_count": 45,
-    "open_issues_count": 28,
+    "open_issues_count": 31,
     "forks_count": 6
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "karanpratapsingh/go-course",
-    "stargazers_count": 318,
+    "stargazers_count": 321,
     "open_issues_count": 0,
-    "forks_count": 19
+    "forks_count": 18
   },
   {
     "full_name": "trolando/sylvan",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "lsils/lstools-showcase",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 0,
     "forks_count": 24
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 101412,
-    "open_issues_count": 7788,
-    "forks_count": 15069
+    "stargazers_count": 101428,
+    "open_issues_count": 7792,
+    "forks_count": 15073
   },
   {
     "full_name": "jrincayc/ucblogo-code",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "wbierbower/awesome-physics",
-    "stargazers_count": 294,
+    "stargazers_count": 295,
     "open_issues_count": 0,
     "forks_count": 44
   },
