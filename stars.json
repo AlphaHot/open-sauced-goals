@@ -25,9 +25,9 @@
   },
   {
     "full_name": "gseim/gseim",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 2,
+    "open_issues_count": 2,
+    "forks_count": 1
   },
   {
     "full_name": "SensorsINI/jaer",
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "vmware/database-stream-processor",
-    "stargazers_count": 45,
-    "open_issues_count": 31,
+    "stargazers_count": 46,
+    "open_issues_count": 32,
     "forks_count": 6
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "google/fleetbench",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "karanpratapsingh/go-course",
-    "stargazers_count": 321,
+    "stargazers_count": 333,
     "open_issues_count": 0,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "trolando/sylvan",
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 101428,
-    "open_issues_count": 7792,
-    "forks_count": 15073
+    "stargazers_count": 101523,
+    "open_issues_count": 7785,
+    "forks_count": 15089
   },
   {
     "full_name": "jrincayc/ucblogo-code",
-    "stargazers_count": 122,
+    "stargazers_count": 123,
     "open_issues_count": 16,
     "forks_count": 24
   },
