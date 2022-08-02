@@ -1,5 +1,77 @@
 [
   {
+    "full_name": "nirhasabnis/gitrank",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "escalab/SIMD2",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "hurchalla/modular_arithmetic",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "erelsgl/fairpy",
+    "stargazers_count": 17,
+    "open_issues_count": 1,
+    "forks_count": 29
+  },
+  {
+    "full_name": "north-numerical-computing/cpfloat",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "temf/bembel",
+    "stargazers_count": 41,
+    "open_issues_count": 11,
+    "forks_count": 16
+  },
+  {
+    "full_name": "primihub/Awesome-Privacy-Computing",
+    "stargazers_count": 24,
+    "open_issues_count": 1,
+    "forks_count": 10
+  },
+  {
+    "full_name": "data61/MP-SPDZ",
+    "stargazers_count": 518,
+    "open_issues_count": 26,
+    "forks_count": 180
+  },
+  {
+    "full_name": "malb/lattice-estimator",
+    "stargazers_count": 36,
+    "open_issues_count": 4,
+    "forks_count": 9
+  },
+  {
+    "full_name": "javedali99/python-resources-for-earth-sciences",
+    "stargazers_count": 142,
+    "open_issues_count": 1,
+    "forks_count": 35
+  },
+  {
+    "full_name": "verhas/License3j",
+    "stargazers_count": 425,
+    "open_issues_count": 0,
+    "forks_count": 151
+  },
+  {
+    "full_name": "userver-framework/userver",
+    "stargazers_count": 925,
+    "open_issues_count": 15,
+    "forks_count": 51
+  },
+  {
     "full_name": "younghoo/neuroimaging-softwares",
     "stargazers_count": 5,
     "open_issues_count": 2,
@@ -7,15 +79,15 @@
   },
   {
     "full_name": "freesurfer/freesurfer",
-    "stargazers_count": 340,
+    "stargazers_count": 341,
     "open_issues_count": 10,
     "forks_count": 182
   },
   {
     "full_name": "alcor/emoji-supply",
-    "stargazers_count": 190,
+    "stargazers_count": 202,
     "open_issues_count": 3,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "mithun218/GiNaCDE",
@@ -97,7 +169,7 @@
   },
   {
     "full_name": "wrcad/xictools",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 10,
     "forks_count": 30
   },
@@ -106,77 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 4,
     "forks_count": 1
-  },
-  {
-    "full_name": "SensorsINI/jaer",
-    "stargazers_count": 119,
-    "open_issues_count": 8,
-    "forks_count": 47
-  },
-  {
-    "full_name": "vmware/database-stream-processor",
-    "stargazers_count": 48,
-    "open_issues_count": 34,
-    "forks_count": 6
-  },
-  {
-    "full_name": "21cmfast/21cmFAST",
-    "stargazers_count": 31,
-    "open_issues_count": 52,
-    "forks_count": 15
-  },
-  {
-    "full_name": "pymgrit/pymgrit",
-    "stargazers_count": 9,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "google/fleetbench",
-    "stargazers_count": 32,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "VegaDeftwing/OpGuidesHugoSrc",
-    "stargazers_count": 13,
-    "open_issues_count": 6,
-    "forks_count": 9
-  },
-  {
-    "full_name": "gdtk-uq/gdtk",
-    "stargazers_count": 10,
-    "open_issues_count": 5,
-    "forks_count": 6
-  },
-  {
-    "full_name": "abetten/orbiter",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "askfind/Ternary-Computer-SETUN-Documentation",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "FudanSELab/awesome-software-engineering-research",
-    "stargazers_count": 15,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "dausonhoang/tracerepair",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "robamler/linguistic-flux-capacitor",
-    "stargazers_count": 5,
-    "open_issues_count": 2,
-    "forks_count": 0
   }
 ]
