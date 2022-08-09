@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "IMS-AS-LUH/sar-sim",
+    "stargazers_count": 2,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
+    "full_name": "scalar42/curated-media-streaming",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 842,
-    "open_issues_count": 27,
-    "forks_count": 28
+    "stargazers_count": 4061,
+    "open_issues_count": 42,
+    "forks_count": 147
   },
   {
     "full_name": "vporpo/zofi",
@@ -49,39 +61,39 @@
   },
   {
     "full_name": "primihub/Awesome-Privacy-Computing",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "data61/MP-SPDZ",
-    "stargazers_count": 518,
-    "open_issues_count": 29,
-    "forks_count": 180
+    "stargazers_count": 521,
+    "open_issues_count": 30,
+    "forks_count": 181
   },
   {
     "full_name": "malb/lattice-estimator",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "javedali99/python-resources-for-earth-sciences",
-    "stargazers_count": 143,
+    "stargazers_count": 144,
     "open_issues_count": 1,
     "forks_count": 35
   },
   {
     "full_name": "verhas/License3j",
-    "stargazers_count": 425,
+    "stargazers_count": 426,
     "open_issues_count": 0,
-    "forks_count": 151
+    "forks_count": 152
   },
   {
     "full_name": "userver-framework/userver",
-    "stargazers_count": 1089,
-    "open_issues_count": 16,
-    "forks_count": 62
+    "stargazers_count": 1161,
+    "open_issues_count": 22,
+    "forks_count": 69
   },
   {
     "full_name": "younghoo/neuroimaging-softwares",
@@ -91,13 +103,13 @@
   },
   {
     "full_name": "freesurfer/freesurfer",
-    "stargazers_count": 341,
+    "stargazers_count": 342,
     "open_issues_count": 9,
     "forks_count": 183
   },
   {
     "full_name": "alcor/emoji-supply",
-    "stargazers_count": 209,
+    "stargazers_count": 212,
     "open_issues_count": 3,
     "forks_count": 12
   },
@@ -145,13 +157,13 @@
   },
   {
     "full_name": "ipc-sim/IPC",
-    "stargazers_count": 367,
+    "stargazers_count": 370,
     "open_issues_count": 13,
     "forks_count": 49
   },
   {
     "full_name": "joamatab/awesome_photonics",
-    "stargazers_count": 102,
+    "stargazers_count": 103,
     "open_issues_count": 0,
     "forks_count": 17
   },
@@ -159,24 +171,12 @@
     "full_name": "Feelcame/feelcame.github.io",
     "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "IgorKorkin/research",
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "google/go-attestation",
-    "stargazers_count": 234,
-    "open_issues_count": 19,
-    "forks_count": 53
-  },
-  {
-    "full_name": "tomas-fryza/digital-electronics-1",
-    "stargazers_count": 31,
-    "open_issues_count": 0,
-    "forks_count": 186
   }
 ]
