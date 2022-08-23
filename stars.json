@@ -1,5 +1,47 @@
 [
   {
+    "full_name": "ccicconetti/quantum-routing",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "jredmondson/gams",
+    "stargazers_count": 23,
+    "open_issues_count": 0,
+    "forks_count": 21
+  },
+  {
+    "full_name": "fabien-brulport/ant-colony",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "brunoolivieri/gradys-simulations",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "CSecLab/LiDiTE",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ra3xdh/qucs_s",
+    "stargazers_count": 270,
+    "open_issues_count": 28,
+    "forks_count": 36
+  },
+  {
+    "full_name": "WolfgangKonen/GBG",
+    "stargazers_count": 15,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
     "full_name": "JasonPSmith/path_poset",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,7 +49,7 @@
   },
   {
     "full_name": "pietroborrello/CustomProcessingUnit",
-    "stargazers_count": 148,
+    "stargazers_count": 150,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -25,9 +67,9 @@
   },
   {
     "full_name": "ange-yaghi/engine-sim",
-    "stargazers_count": 3264,
-    "open_issues_count": 62,
-    "forks_count": 317
+    "stargazers_count": 3644,
+    "open_issues_count": 77,
+    "forks_count": 351
   },
   {
     "full_name": "cgshep/android-multiplexing-security-pocs",
@@ -49,9 +91,9 @@
   },
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 7954,
-    "open_issues_count": 42,
-    "forks_count": 304
+    "stargazers_count": 8283,
+    "open_issues_count": 41,
+    "forks_count": 315
   },
   {
     "full_name": "vporpo/zofi",
@@ -97,14 +139,14 @@
   },
   {
     "full_name": "primihub/Awesome-Privacy-Computing",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "data61/MP-SPDZ",
     "stargazers_count": 524,
-    "open_issues_count": 28,
+    "open_issues_count": 31,
     "forks_count": 184
   },
   {
@@ -121,62 +163,20 @@
   },
   {
     "full_name": "verhas/License3j",
-    "stargazers_count": 427,
+    "stargazers_count": 428,
     "open_issues_count": 0,
     "forks_count": 155
   },
   {
     "full_name": "userver-framework/userver",
-    "stargazers_count": 1249,
-    "open_issues_count": 23,
-    "forks_count": 79
+    "stargazers_count": 1260,
+    "open_issues_count": 25,
+    "forks_count": 81
   },
   {
     "full_name": "younghoo/neuroimaging-softwares",
     "stargazers_count": 5,
     "open_issues_count": 2,
     "forks_count": 3
-  },
-  {
-    "full_name": "freesurfer/freesurfer",
-    "stargazers_count": 344,
-    "open_issues_count": 9,
-    "forks_count": 183
-  },
-  {
-    "full_name": "alcor/emoji-supply",
-    "stargazers_count": 225,
-    "open_issues_count": 3,
-    "forks_count": 15
-  },
-  {
-    "full_name": "mithun218/GiNaCDE",
-    "stargazers_count": 4,
-    "open_issues_count": 6,
-    "forks_count": 2
-  },
-  {
-    "full_name": "omelchert/GNLStools",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "iouatu/mySmilei",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "jestenough/learning",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "ladnir/cryptoTools",
-    "stargazers_count": 64,
-    "open_issues_count": 2,
-    "forks_count": 40
   }
 ]
