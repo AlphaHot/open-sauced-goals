@@ -1,5 +1,41 @@
 [
   {
+    "full_name": "tanyashreedhar/AgeControlProtocolPlus",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "LouisCarpentier42/HeuristicAlgorithmsUsingTreeDecompositions",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "sampotter/jmm",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "sandervano/GreenCodeSmells",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ross-rotordynamics/ross",
+    "stargazers_count": 61,
+    "open_issues_count": 25,
+    "forks_count": 57
+  },
+  {
+    "full_name": "rpreen/xcsf",
+    "stargazers_count": 14,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
     "full_name": "csa2022/Color-Spliting-Algorithm-CSA",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -68,7 +104,7 @@
   {
     "full_name": "devploit/ctf-awesome-resources",
     "stargazers_count": 57,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 12
   },
   {
@@ -80,14 +116,14 @@
   {
     "full_name": "matteobernardini/STREAmS",
     "stargazers_count": 56,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 30
   },
   {
     "full_name": "KnowingNothing/compiler-and-arch",
-    "stargazers_count": 126,
+    "stargazers_count": 127,
     "open_issues_count": 0,
-    "forks_count": 10
+    "forks_count": 12
   },
   {
     "full_name": "RadonPy/RadonPy",
@@ -142,41 +178,5 @@
     "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 21
-  },
-  {
-    "full_name": "fabien-brulport/ant-colony",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "brunoolivieri/gradys-simulations",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "CSecLab/LiDiTE",
-    "stargazers_count": 4,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ra3xdh/qucs_s",
-    "stargazers_count": 280,
-    "open_issues_count": 31,
-    "forks_count": 36
-  },
-  {
-    "full_name": "WolfgangKonen/GBG",
-    "stargazers_count": 15,
-    "open_issues_count": 2,
-    "forks_count": 2
-  },
-  {
-    "full_name": "JasonPSmith/path_poset",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
