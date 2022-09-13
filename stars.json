@@ -1,5 +1,65 @@
 [
   {
+    "full_name": "dkondor/orbtree",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "albertoboffi/wise-red-black-tree",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "brownjm/laser-propagation",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "ssloxford/ACASX-simulator",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "temelmertcan/multgen",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "HPCSys-Lab/simwave",
+    "stargazers_count": 10,
+    "open_issues_count": 2,
+    "forks_count": 3
+  },
+  {
+    "full_name": "bergzand/libcose",
+    "stargazers_count": 19,
+    "open_issues_count": 13,
+    "forks_count": 8
+  },
+  {
+    "full_name": "vuphan314/DPO",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "domschrei/mallob",
+    "stargazers_count": 25,
+    "open_issues_count": 3,
+    "forks_count": 9
+  },
+  {
+    "full_name": "jsliyuan/cr37",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "tanyashreedhar/AgeControlProtocolPlus",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -26,7 +86,7 @@
   {
     "full_name": "ross-rotordynamics/ross",
     "stargazers_count": 61,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "forks_count": 57
   },
   {
@@ -103,7 +163,7 @@
   },
   {
     "full_name": "devploit/ctf-awesome-resources",
-    "stargazers_count": 57,
+    "stargazers_count": 59,
     "open_issues_count": 1,
     "forks_count": 12
   },
@@ -118,65 +178,5 @@
     "stargazers_count": 56,
     "open_issues_count": 2,
     "forks_count": 30
-  },
-  {
-    "full_name": "KnowingNothing/compiler-and-arch",
-    "stargazers_count": 127,
-    "open_issues_count": 0,
-    "forks_count": 12
-  },
-  {
-    "full_name": "RadonPy/RadonPy",
-    "stargazers_count": 19,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "fast-crypto-lab/bitpolymul",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "s-macke/FSHistory",
-    "stargazers_count": 224,
-    "open_issues_count": 3,
-    "forks_count": 21
-  },
-  {
-    "full_name": "nelloreward/pkl",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "wetneb/sheetshow",
-    "stargazers_count": 9,
-    "open_issues_count": 5,
-    "forks_count": 0
-  },
-  {
-    "full_name": "statebox/purescript-studio",
-    "stargazers_count": 4,
-    "open_issues_count": 101,
-    "forks_count": 0
-  },
-  {
-    "full_name": "oxford-quantum-group/discopy",
-    "stargazers_count": 231,
-    "open_issues_count": 16,
-    "forks_count": 48
-  },
-  {
-    "full_name": "ccicconetti/quantum-routing",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "jredmondson/gams",
-    "stargazers_count": 23,
-    "open_issues_count": 0,
-    "forks_count": 21
   }
 ]
