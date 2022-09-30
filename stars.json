@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "satviz/satviz",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "AIRI-Institute/pogema",
+    "stargazers_count": 53,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "CodeCrafter47/sortinglowerbounds",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "v-morello/riptide",
+    "stargazers_count": 16,
+    "open_issues_count": 2,
+    "forks_count": 6
+  },
+  {
+    "full_name": "MUSIC-fluid/MUSIC",
+    "stargazers_count": 21,
+    "open_issues_count": 0,
+    "forks_count": 14
+  },
+  {
     "full_name": "CFD-GO/TCLB",
     "stargazers_count": 108,
     "open_issues_count": 42,
@@ -49,7 +79,7 @@
   },
   {
     "full_name": "google/aarch64-esr-decoder",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -103,8 +133,8 @@
   },
   {
     "full_name": "domschrei/mallob",
-    "stargazers_count": 25,
-    "open_issues_count": 3,
+    "stargazers_count": 26,
+    "open_issues_count": 2,
     "forks_count": 9
   },
   {
@@ -148,35 +178,5 @@
     "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 9
-  },
-  {
-    "full_name": "csa2022/Color-Spliting-Algorithm-CSA",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "kaled-alshmrany/FuSeBMC",
-    "stargazers_count": 30,
-    "open_issues_count": 1,
-    "forks_count": 2
-  },
-  {
-    "full_name": "DatenVorsprung/GoTube",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "shdown/decimal-multiplication-paper",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "adamasstokhorst/ZechdB",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
