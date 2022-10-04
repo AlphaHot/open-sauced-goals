@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "callumnewlands/ForestGenerator",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "bifibrant/recursion",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "olidennis/round-eliminator",
+    "stargazers_count": 4,
+    "open_issues_count": 9,
+    "forks_count": 2
+  },
+  {
     "full_name": "satviz/satviz",
     "stargazers_count": 7,
     "open_issues_count": 0,
@@ -7,7 +25,7 @@
   },
   {
     "full_name": "AIRI-Institute/pogema",
-    "stargazers_count": 53,
+    "stargazers_count": 55,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "sandervano/GreenCodeSmells",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ross-rotordynamics/ross",
-    "stargazers_count": 63,
-    "open_issues_count": 29,
-    "forks_count": 67
-  },
-  {
-    "full_name": "rpreen/xcsf",
-    "stargazers_count": 14,
-    "open_issues_count": 0,
-    "forks_count": 9
   }
 ]
