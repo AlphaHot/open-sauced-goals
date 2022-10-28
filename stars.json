@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "alexanderisora/startuptoolbox",
+    "stargazers_count": 165,
+    "open_issues_count": 7,
+    "forks_count": 34
+  },
+  {
+    "full_name": "pierre-guillou/pdiags_bench",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "AlieZ22/IMRSim",
     "stargazers_count": 6,
     "open_issues_count": 0,
@@ -51,12 +63,12 @@
     "full_name": "PlumJelly/ABS-Polar",
     "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "josephkamel/F2MD",
     "stargazers_count": 41,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 24
   },
   {
@@ -79,13 +91,13 @@
   },
   {
     "full_name": "satviz/satviz",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "AIRI-Institute/pogema",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "albertoboffi/wise-red-black-tree",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "brownjm/laser-propagation",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 5
   }
 ]
