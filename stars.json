@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "unbalancedparentheses/cryptography_in_rust_for_hackers",
+    "stargazers_count": 3,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
+    "full_name": "jpneto/ScoringGames",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mstrielnikov/Cryptology",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "vladisov/binary-search-visualisation",
     "stargazers_count": 7,
     "open_issues_count": 0,
@@ -13,9 +31,9 @@
   },
   {
     "full_name": "Matthias84/awesome-flying-fpv",
-    "stargazers_count": 12,
+    "stargazers_count": 14,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "cloudsecurityalliance/Twitter-PlanB",
@@ -31,19 +49,19 @@
   },
   {
     "full_name": "nathanlesage/academics-on-mastodon",
-    "stargazers_count": 387,
-    "open_issues_count": 0,
-    "forks_count": 50
+    "stargazers_count": 547,
+    "open_issues_count": 1,
+    "forks_count": 60
   },
   {
     "full_name": "inpla/inpla",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "jhonnold/node-tlcv",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 13,
     "forks_count": 1
   },
@@ -56,18 +74,18 @@
   {
     "full_name": "Thomaash/me",
     "stargazers_count": 47,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 13
   },
   {
     "full_name": "cidrblock/drawthe.net",
-    "stargazers_count": 934,
+    "stargazers_count": 933,
     "open_issues_count": 17,
-    "forks_count": 113
+    "forks_count": 114
   },
   {
     "full_name": "jplaui/web3knowledge",
-    "stargazers_count": 21,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -85,7 +103,7 @@
   },
   {
     "full_name": "AlieZ22/IMRSim",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 5,
     "open_issues_count": 9,
     "forks_count": 2
-  },
-  {
-    "full_name": "satviz/satviz",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "AIRI-Institute/pogema",
-    "stargazers_count": 57,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "CodeCrafter47/sortinglowerbounds",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
