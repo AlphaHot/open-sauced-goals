@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Hipparchus-Math/hipparchus",
+    "stargazers_count": 92,
+    "open_issues_count": 14,
+    "forks_count": 35
+  },
+  {
     "full_name": "unbalancedparentheses/cryptography_in_rust_for_hackers",
     "stargazers_count": 3,
     "open_issues_count": 2,
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "Matthias84/awesome-flying-fpv",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "nathanlesage/academics-on-mastodon",
-    "stargazers_count": 547,
+    "stargazers_count": 558,
     "open_issues_count": 1,
     "forks_count": 60
   },
@@ -62,7 +68,7 @@
   {
     "full_name": "jhonnold/node-tlcv",
     "stargazers_count": 13,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 1
   },
   {
@@ -79,13 +85,13 @@
   },
   {
     "full_name": "cidrblock/drawthe.net",
-    "stargazers_count": 933,
+    "stargazers_count": 934,
     "open_issues_count": 17,
     "forks_count": 114
   },
   {
     "full_name": "jplaui/web3knowledge",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -105,7 +111,7 @@
     "full_name": "AlieZ22/IMRSim",
     "stargazers_count": 7,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "alopezrivera/huracan",
@@ -121,7 +127,7 @@
   },
   {
     "full_name": "cacheflowe/creative-coding-notes",
-    "stargazers_count": 491,
+    "stargazers_count": 492,
     "open_issues_count": 0,
     "forks_count": 30
   },
@@ -157,13 +163,13 @@
   },
   {
     "full_name": "josephkamel/F2MD",
-    "stargazers_count": 41,
+    "stargazers_count": 40,
     "open_issues_count": 5,
     "forks_count": 25
   },
   {
     "full_name": "callumnewlands/ForestGenerator",
-    "stargazers_count": 12,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "olidennis/round-eliminator",
-    "stargazers_count": 5,
-    "open_issues_count": 9,
-    "forks_count": 2
   }
 ]
