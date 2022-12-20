@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "daniele-canavese/esp",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "TheCyberpunker/OSINT",
     "stargazers_count": 5,
     "open_issues_count": 0,
@@ -31,25 +37,25 @@
   },
   {
     "full_name": "tensorush/Awesome-Systems-Learning",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "bespoyasov/refactor-like-a-superhero",
-    "stargazers_count": 626,
+    "stargazers_count": 634,
     "open_issues_count": 2,
-    "forks_count": 53
+    "forks_count": 54
   },
   {
     "full_name": "vitkarpov/coding-interviews-blog-archive",
-    "stargazers_count": 852,
+    "stargazers_count": 855,
     "open_issues_count": 1,
     "forks_count": 71
   },
   {
     "full_name": "Hipparchus-Math/hipparchus",
-    "stargazers_count": 93,
+    "stargazers_count": 94,
     "open_issues_count": 15,
     "forks_count": 35
   },
@@ -103,13 +109,13 @@
   },
   {
     "full_name": "nathanlesage/academics-on-mastodon",
-    "stargazers_count": 641,
+    "stargazers_count": 661,
     "open_issues_count": 0,
-    "forks_count": 66
+    "forks_count": 68
   },
   {
     "full_name": "inpla/inpla",
-    "stargazers_count": 38,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -133,7 +139,7 @@
   },
   {
     "full_name": "cidrblock/drawthe.net",
-    "stargazers_count": 943,
+    "stargazers_count": 947,
     "open_issues_count": 17,
     "forks_count": 115
   },
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "alexanderisora/startuptoolbox",
-    "stargazers_count": 169,
+    "stargazers_count": 170,
     "open_issues_count": 7,
     "forks_count": 34
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "cacheflowe/creative-coding-notes",
-    "stargazers_count": 495,
-    "open_issues_count": 0,
-    "forks_count": 30
   }
 ]
