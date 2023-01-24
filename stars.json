@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "tensorush/Computer-Scientists-Toolkit",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "Data-Science-2Like/arXive-crawler",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Steamgjk/Nezha",
     "stargazers_count": 12,
     "open_issues_count": 0,
@@ -25,7 +37,7 @@
   },
   {
     "full_name": "pkivolowitz/asm_book",
-    "stargazers_count": 1820,
+    "stargazers_count": 1832,
     "open_issues_count": 3,
     "forks_count": 66
   },
@@ -67,31 +79,31 @@
   },
   {
     "full_name": "tensorush/Awesome-Systems-Learning",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "bespoyasov/refactor-like-a-superhero",
-    "stargazers_count": 697,
+    "stargazers_count": 704,
     "open_issues_count": 2,
     "forks_count": 57
   },
   {
     "full_name": "vitkarpov/coding-interviews-blog-archive",
-    "stargazers_count": 890,
+    "stargazers_count": 892,
     "open_issues_count": 1,
     "forks_count": 74
   },
   {
     "full_name": "Hipparchus-Math/hipparchus",
-    "stargazers_count": 97,
-    "open_issues_count": 16,
+    "stargazers_count": 98,
+    "open_issues_count": 15,
     "forks_count": 37
   },
   {
     "full_name": "unbalancedparentheses/cryptography_in_rust_for_hackers",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -139,13 +151,13 @@
   },
   {
     "full_name": "nathanlesage/academics-on-mastodon",
-    "stargazers_count": 702,
+    "stargazers_count": 709,
     "open_issues_count": 0,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "inpla/inpla",
-    "stargazers_count": 44,
+    "stargazers_count": 47,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 46,
     "open_issues_count": 13,
     "forks_count": 13
-  },
-  {
-    "full_name": "cidrblock/drawthe.net",
-    "stargazers_count": 960,
-    "open_issues_count": 17,
-    "forks_count": 116
-  },
-  {
-    "full_name": "jplaui/web3knowledge",
-    "stargazers_count": 32,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
