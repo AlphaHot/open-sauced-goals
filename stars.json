@@ -1,19 +1,25 @@
 [
   {
-    "full_name": "maximecb/uvm",
-    "stargazers_count": 216,
-    "open_issues_count": 6,
+    "full_name": "DD5HT/awesome-hamradio",
+    "stargazers_count": 43,
+    "open_issues_count": 1,
     "forks_count": 6
   },
   {
+    "full_name": "maximecb/uvm",
+    "stargazers_count": 228,
+    "open_issues_count": 7,
+    "forks_count": 7
+  },
+  {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 42109,
-    "open_issues_count": 1005,
-    "forks_count": 3477
+    "stargazers_count": 42447,
+    "open_issues_count": 1012,
+    "forks_count": 3492
   },
   {
     "full_name": "0xor0ne/awesome-list",
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -26,8 +32,8 @@
   {
     "full_name": "gue-ni/OpenGL_Flightsim",
     "stargazers_count": 77,
-    "open_issues_count": 3,
-    "forks_count": 5
+    "open_issues_count": 5,
+    "forks_count": 6
   },
   {
     "full_name": "crystalattice/Algorithms_and_Interviews",
@@ -109,7 +115,7 @@
   },
   {
     "full_name": "pkivolowitz/asm_book",
-    "stargazers_count": 1911,
+    "stargazers_count": 1912,
     "open_issues_count": 2,
     "forks_count": 72
   },
@@ -146,7 +152,7 @@
   {
     "full_name": "antarctica/PolarRoute",
     "stargazers_count": 11,
-    "open_issues_count": 10,
+    "open_issues_count": 15,
     "forks_count": 2
   },
   {
@@ -157,13 +163,13 @@
   },
   {
     "full_name": "bespoyasov/refactor-like-a-superhero",
-    "stargazers_count": 748,
+    "stargazers_count": 750,
     "open_issues_count": 2,
     "forks_count": 61
   },
   {
     "full_name": "vitkarpov/coding-interviews-blog-archive",
-    "stargazers_count": 915,
+    "stargazers_count": 916,
     "open_issues_count": 1,
     "forks_count": 78
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 101,
     "open_issues_count": 22,
     "forks_count": 40
-  },
-  {
-    "full_name": "unbalancedparentheses/cryptography_in_rust_for_hackers",
-    "stargazers_count": 11,
-    "open_issues_count": 1,
-    "forks_count": 4
   }
 ]
