@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "lcx366/ATMOS",
+    "stargazers_count": 19,
+    "open_issues_count": 6,
+    "forks_count": 3
+  },
+  {
     "full_name": "DD5HT/awesome-hamradio",
     "stargazers_count": 43,
     "open_issues_count": 1,
@@ -7,19 +13,19 @@
   },
   {
     "full_name": "maximecb/uvm",
-    "stargazers_count": 228,
+    "stargazers_count": 244,
     "open_issues_count": 7,
     "forks_count": 7
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 42447,
-    "open_issues_count": 1012,
-    "forks_count": 3492
+    "stargazers_count": 42817,
+    "open_issues_count": 1016,
+    "forks_count": 3516
   },
   {
     "full_name": "0xor0ne/awesome-list",
-    "stargazers_count": 58,
+    "stargazers_count": 60,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -32,7 +38,7 @@
   {
     "full_name": "gue-ni/OpenGL_Flightsim",
     "stargazers_count": 77,
-    "open_issues_count": 5,
+    "open_issues_count": 3,
     "forks_count": 6
   },
   {
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "QuanjunZhang/AwesomeLearningAPR",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "Steamgjk/Nezha",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "pkivolowitz/asm_book",
-    "stargazers_count": 1912,
+    "stargazers_count": 1916,
     "open_issues_count": 2,
     "forks_count": 72
   },
@@ -152,7 +158,7 @@
   {
     "full_name": "antarctica/PolarRoute",
     "stargazers_count": 11,
-    "open_issues_count": 15,
+    "open_issues_count": 13,
     "forks_count": 2
   },
   {
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "bespoyasov/refactor-like-a-superhero",
-    "stargazers_count": 750,
+    "stargazers_count": 755,
     "open_issues_count": 2,
     "forks_count": 61
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 916,
     "open_issues_count": 1,
     "forks_count": 78
-  },
-  {
-    "full_name": "Hipparchus-Math/hipparchus",
-    "stargazers_count": 101,
-    "open_issues_count": 22,
-    "forks_count": 40
   }
 ]
