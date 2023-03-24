@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Anon52MI4/oeis-alien",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "alexgbrandt/Parallel-NBody",
     "stargazers_count": 5,
     "open_issues_count": 0,
@@ -31,19 +37,19 @@
   },
   {
     "full_name": "maximecb/uvm",
-    "stargazers_count": 254,
+    "stargazers_count": 259,
     "open_issues_count": 6,
     "forks_count": 7
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 43412,
-    "open_issues_count": 1023,
-    "forks_count": 3564
+    "stargazers_count": 43637,
+    "open_issues_count": 1031,
+    "forks_count": 3586
   },
   {
     "full_name": "0xor0ne/awesome-list",
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -55,8 +61,8 @@
   },
   {
     "full_name": "gue-ni/OpenGL_Flightsim",
-    "stargazers_count": 76,
-    "open_issues_count": 3,
+    "stargazers_count": 77,
+    "open_issues_count": 0,
     "forks_count": 6
   },
   {
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "Steamgjk/Nezha",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "pkivolowitz/asm_book",
-    "stargazers_count": 2058,
+    "stargazers_count": 2069,
     "open_issues_count": 2,
-    "forks_count": 84
+    "forks_count": 83
   },
   {
     "full_name": "daniele-canavese/esp",
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "antarctica/PolarRoute",
-    "stargazers_count": 11,
-    "open_issues_count": 15,
-    "forks_count": 2
   }
 ]
