@@ -1,8 +1,20 @@
 [
   {
+    "full_name": "fuchuanpu/HyperVision",
+    "stargazers_count": 17,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "sschaetz/awesome-hardware-test",
+    "stargazers_count": 15,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "ChessMax/awesome-programming-languages",
-    "stargazers_count": 331,
-    "open_issues_count": 2,
+    "stargazers_count": 332,
+    "open_issues_count": 1,
     "forks_count": 31
   },
   {
@@ -49,25 +61,25 @@
   },
   {
     "full_name": "maximecb/uvm",
-    "stargazers_count": 275,
+    "stargazers_count": 278,
     "open_issues_count": 5,
     "forks_count": 9
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 44588,
-    "open_issues_count": 1093,
-    "forks_count": 3677
+    "stargazers_count": 44843,
+    "open_issues_count": 1108,
+    "forks_count": 3694
   },
   {
     "full_name": "0xor0ne/awesome-list",
-    "stargazers_count": 74,
+    "stargazers_count": 76,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "cheng-zhao/libast",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -133,7 +145,7 @@
   },
   {
     "full_name": "Steamgjk/Nezha",
-    "stargazers_count": 16,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -157,25 +169,13 @@
   },
   {
     "full_name": "pkivolowitz/asm_book",
-    "stargazers_count": 2094,
+    "stargazers_count": 2097,
     "open_issues_count": 2,
     "forks_count": 84
   },
   {
     "full_name": "daniele-canavese/esp",
     "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "TheCyberpunker/OSINT",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "rg-software/board-games",
-    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   }
