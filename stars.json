@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "jjshoots/PyFlyt",
+    "stargazers_count": 12,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
+    "full_name": "hellman/Quine-McCluskey",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "fuchuanpu/HyperVision",
     "stargazers_count": 17,
     "open_issues_count": 1,
@@ -13,9 +25,9 @@
   },
   {
     "full_name": "ChessMax/awesome-programming-languages",
-    "stargazers_count": 335,
-    "open_issues_count": 1,
-    "forks_count": 31
+    "stargazers_count": 337,
+    "open_issues_count": 0,
+    "forks_count": 32
   },
   {
     "full_name": "nickbattle/vdmj",
@@ -37,7 +49,7 @@
   },
   {
     "full_name": "nicktehrany/ZNS-Study",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -61,19 +73,19 @@
   },
   {
     "full_name": "maximecb/uvm",
-    "stargazers_count": 282,
+    "stargazers_count": 285,
     "open_issues_count": 5,
     "forks_count": 9
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 45090,
-    "open_issues_count": 1110,
-    "forks_count": 3715
+    "stargazers_count": 45387,
+    "open_issues_count": 1128,
+    "forks_count": 3736
   },
   {
     "full_name": "0xor0ne/awesome-list",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 0,
     "forks_count": 13
   },
@@ -85,9 +97,9 @@
   },
   {
     "full_name": "gue-ni/OpenGL_Flightsim",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "open_issues_count": 1,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "crystalattice/Algorithms_and_Interviews",
@@ -163,18 +175,6 @@
   },
   {
     "full_name": "Timeroot/DVFS_PACE2022",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "pkivolowitz/asm_book",
-    "stargazers_count": 2101,
-    "open_issues_count": 2,
-    "forks_count": 84
-  },
-  {
-    "full_name": "daniele-canavese/esp",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
