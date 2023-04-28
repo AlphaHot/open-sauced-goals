@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "OpenFogStack/FReD",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "fasttime/JScrewIt",
+    "stargazers_count": 145,
+    "open_issues_count": 13,
+    "forks_count": 13
+  },
+  {
     "full_name": "jjshoots/PyFlyt",
     "stargazers_count": 13,
     "open_issues_count": 2,
@@ -13,7 +25,7 @@
   },
   {
     "full_name": "fuchuanpu/HyperVision",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -25,9 +37,9 @@
   },
   {
     "full_name": "ChessMax/awesome-programming-languages",
-    "stargazers_count": 339,
+    "stargazers_count": 342,
     "open_issues_count": 0,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "nickbattle/vdmj",
@@ -73,19 +85,19 @@
   },
   {
     "full_name": "maximecb/uvm",
-    "stargazers_count": 285,
+    "stargazers_count": 288,
     "open_issues_count": 5,
     "forks_count": 9
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 45855,
-    "open_issues_count": 1139,
-    "forks_count": 3778
+    "stargazers_count": 46066,
+    "open_issues_count": 1147,
+    "forks_count": 3785
   },
   {
     "full_name": "0xor0ne/awesome-list",
-    "stargazers_count": 78,
+    "stargazers_count": 80,
     "open_issues_count": 0,
     "forks_count": 13
   },
@@ -97,9 +109,9 @@
   },
   {
     "full_name": "gue-ni/OpenGL_Flightsim",
-    "stargazers_count": 84,
+    "stargazers_count": 86,
     "open_issues_count": 1,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "crystalattice/Algorithms_and_Interviews",
@@ -164,18 +176,6 @@
   {
     "full_name": "jtkristoff/reads",
     "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "igurel/cryptography-101",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Timeroot/DVFS_PACE2022",
-    "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
   }
