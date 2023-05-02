@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "observablehq/plot",
+    "stargazers_count": 2749,
+    "open_issues_count": 197,
+    "forks_count": 129
+  },
+  {
     "full_name": "OpenFogStack/FReD",
     "stargazers_count": 5,
     "open_issues_count": 0,
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "ChessMax/awesome-programming-languages",
-    "stargazers_count": 342,
+    "stargazers_count": 346,
     "open_issues_count": 0,
     "forks_count": 33
   },
@@ -85,15 +91,15 @@
   },
   {
     "full_name": "maximecb/uvm",
-    "stargazers_count": 288,
+    "stargazers_count": 291,
     "open_issues_count": 5,
     "forks_count": 9
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 46066,
-    "open_issues_count": 1147,
-    "forks_count": 3785
+    "stargazers_count": 46369,
+    "open_issues_count": 1144,
+    "forks_count": 3812
   },
   {
     "full_name": "0xor0ne/awesome-list",
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "gue-ni/OpenGL_Flightsim",
-    "stargazers_count": 86,
+    "stargazers_count": 87,
     "open_issues_count": 1,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "crystalattice/Algorithms_and_Interviews",
@@ -170,12 +176,6 @@
   {
     "full_name": "Steamgjk/Nezha",
     "stargazers_count": 18,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "jtkristoff/reads",
-    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   }
