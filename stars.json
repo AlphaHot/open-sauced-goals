@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "EqDAC/EqDACTool",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "Z-928/QChecker",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "observablehq/plot",
-    "stargazers_count": 2749,
-    "open_issues_count": 197,
-    "forks_count": 129
+    "stargazers_count": 2771,
+    "open_issues_count": 199,
+    "forks_count": 130
   },
   {
     "full_name": "OpenFogStack/FReD",
@@ -19,7 +31,7 @@
   },
   {
     "full_name": "jjshoots/PyFlyt",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -43,8 +55,8 @@
   },
   {
     "full_name": "ChessMax/awesome-programming-languages",
-    "stargazers_count": 346,
-    "open_issues_count": 0,
+    "stargazers_count": 347,
+    "open_issues_count": 3,
     "forks_count": 33
   },
   {
@@ -79,7 +91,7 @@
   },
   {
     "full_name": "lcx366/ATMOS",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 6,
     "forks_count": 3
   },
@@ -91,15 +103,15 @@
   },
   {
     "full_name": "maximecb/uvm",
-    "stargazers_count": 291,
+    "stargazers_count": 293,
     "open_issues_count": 5,
     "forks_count": 9
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 46369,
-    "open_issues_count": 1144,
-    "forks_count": 3812
+    "stargazers_count": 46597,
+    "open_issues_count": 1157,
+    "forks_count": 3835
   },
   {
     "full_name": "0xor0ne/awesome-list",
@@ -115,7 +127,7 @@
   },
   {
     "full_name": "gue-ni/OpenGL_Flightsim",
-    "stargazers_count": 87,
+    "stargazers_count": 86,
     "open_issues_count": 1,
     "forks_count": 10
   },
@@ -151,7 +163,7 @@
   },
   {
     "full_name": "QuanjunZhang/AwesomeLearningAPR",
-    "stargazers_count": 12,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 21,
     "open_issues_count": 0,
     "forks_count": 5
-  },
-  {
-    "full_name": "Data-Science-2Like/arXive-crawler",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Steamgjk/Nezha",
-    "stargazers_count": 18,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
