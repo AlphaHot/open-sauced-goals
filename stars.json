@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "cronburg/shadow-memory",
+    "stargazers_count": 7,
+    "open_issues_count": 3,
+    "forks_count": 2
+  },
+  {
     "full_name": "EqDAC/EqDACTool",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "observablehq/plot",
-    "stargazers_count": 2771,
-    "open_issues_count": 199,
-    "forks_count": 130
+    "stargazers_count": 2822,
+    "open_issues_count": 198,
+    "forks_count": 131
   },
   {
     "full_name": "OpenFogStack/FReD",
@@ -45,7 +51,7 @@
     "full_name": "fuchuanpu/HyperVision",
     "stargazers_count": 21,
     "open_issues_count": 1,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "sschaetz/awesome-hardware-test",
@@ -55,8 +61,8 @@
   },
   {
     "full_name": "ChessMax/awesome-programming-languages",
-    "stargazers_count": 347,
-    "open_issues_count": 3,
+    "stargazers_count": 350,
+    "open_issues_count": 0,
     "forks_count": 33
   },
   {
@@ -86,7 +92,7 @@
   {
     "full_name": "helloDestroyerOfWorlds/propeller_design_tools",
     "stargazers_count": 19,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 3
   },
   {
@@ -103,19 +109,19 @@
   },
   {
     "full_name": "maximecb/uvm",
-    "stargazers_count": 293,
+    "stargazers_count": 294,
     "open_issues_count": 5,
     "forks_count": 9
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 46597,
-    "open_issues_count": 1157,
-    "forks_count": 3835
+    "stargazers_count": 46897,
+    "open_issues_count": 1160,
+    "forks_count": 3858
   },
   {
     "full_name": "0xor0ne/awesome-list",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "open_issues_count": 0,
     "forks_count": 13
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "tensorush/Computer-Scientists-Toolkit",
-    "stargazers_count": 21,
-    "open_issues_count": 0,
-    "forks_count": 5
   }
 ]
