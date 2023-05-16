@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "stanford-centaur/Soy",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "bminaiev/aicontest.dev",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "cronburg/shadow-memory",
     "stargazers_count": 7,
     "open_issues_count": 3,
@@ -19,8 +31,8 @@
   },
   {
     "full_name": "observablehq/plot",
-    "stargazers_count": 2867,
-    "open_issues_count": 199,
+    "stargazers_count": 2874,
+    "open_issues_count": 202,
     "forks_count": 131
   },
   {
@@ -49,7 +61,7 @@
   },
   {
     "full_name": "fuchuanpu/HyperVision",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -63,7 +75,7 @@
     "full_name": "ChessMax/awesome-programming-languages",
     "stargazers_count": 348,
     "open_issues_count": 0,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "nickbattle/vdmj",
@@ -115,13 +127,13 @@
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 47075,
-    "open_issues_count": 1173,
-    "forks_count": 3877
+    "stargazers_count": 47301,
+    "open_issues_count": 1182,
+    "forks_count": 3886
   },
   {
     "full_name": "0xor0ne/awesome-list",
-    "stargazers_count": 81,
+    "stargazers_count": 84,
     "open_issues_count": 0,
     "forks_count": 13
   },
@@ -133,7 +145,7 @@
   },
   {
     "full_name": "gue-ni/OpenGL_Flightsim",
-    "stargazers_count": 86,
+    "stargazers_count": 87,
     "open_issues_count": 2,
     "forks_count": 10
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 8
-  },
-  {
-    "full_name": "QuanjunZhang/AwesomeLearningAPR",
-    "stargazers_count": 15,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "pifthon/pifthon",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
