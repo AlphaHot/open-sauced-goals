@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "Expander/polylogarithm",
+    "stargazers_count": 21,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "yeo/betterdev.link",
+    "stargazers_count": 107,
+    "open_issues_count": 9,
+    "forks_count": 12
+  },
+  {
     "full_name": "rmitbggroup/LearnedIndexDiskExp",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -19,7 +31,7 @@
   },
   {
     "full_name": "bminaiev/aicontest.dev",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -43,8 +55,8 @@
   },
   {
     "full_name": "observablehq/plot",
-    "stargazers_count": 2893,
-    "open_issues_count": 206,
+    "stargazers_count": 2929,
+    "open_issues_count": 209,
     "forks_count": 132
   },
   {
@@ -73,7 +85,7 @@
   },
   {
     "full_name": "fuchuanpu/HyperVision",
-    "stargazers_count": 23,
+    "stargazers_count": 25,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -85,8 +97,8 @@
   },
   {
     "full_name": "ChessMax/awesome-programming-languages",
-    "stargazers_count": 350,
-    "open_issues_count": 2,
+    "stargazers_count": 351,
+    "open_issues_count": 0,
     "forks_count": 35
   },
   {
@@ -117,7 +129,7 @@
     "full_name": "helloDestroyerOfWorlds/propeller_design_tools",
     "stargazers_count": 19,
     "open_issues_count": 2,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "lcx366/ATMOS",
@@ -135,17 +147,17 @@
     "full_name": "maximecb/uvm",
     "stargazers_count": 295,
     "open_issues_count": 5,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 47509,
-    "open_issues_count": 1194,
-    "forks_count": 3897
+    "stargazers_count": 47761,
+    "open_issues_count": 1202,
+    "forks_count": 3928
   },
   {
     "full_name": "0xor0ne/awesome-list",
-    "stargazers_count": 86,
+    "stargazers_count": 88,
     "open_issues_count": 0,
     "forks_count": 13
   },
@@ -164,18 +176,6 @@
   {
     "full_name": "crystalattice/Algorithms_and_Interviews",
     "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "claracbengoa/damagecreator",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "ctralie/AudioCurveSteganography",
-    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   }
