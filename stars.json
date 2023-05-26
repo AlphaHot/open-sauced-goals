@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "WillieShi/Fabricating_Reality",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Expander/polylogarithm",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "atakanaltok/awesome-useful-websites",
-    "stargazers_count": 27,
+    "stargazers_count": 29,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "observablehq/plot",
-    "stargazers_count": 2929,
-    "open_issues_count": 209,
-    "forks_count": 132
+    "stargazers_count": 2969,
+    "open_issues_count": 216,
+    "forks_count": 133
   },
   {
     "full_name": "OpenFogStack/FReD",
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "fuchuanpu/HyperVision",
-    "stargazers_count": 25,
+    "stargazers_count": 27,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "ChessMax/awesome-programming-languages",
-    "stargazers_count": 351,
+    "stargazers_count": 353,
     "open_issues_count": 0,
     "forks_count": 35
   },
@@ -105,7 +111,7 @@
     "full_name": "nickbattle/vdmj",
     "stargazers_count": 20,
     "open_issues_count": 6,
-    "forks_count": 23
+    "forks_count": 22
   },
   {
     "full_name": "Anon52MI4/oeis-alien",
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "DD5HT/awesome-hamradio",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 1,
     "forks_count": 6
   },
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 47761,
-    "open_issues_count": 1202,
-    "forks_count": 3928
+    "stargazers_count": 47932,
+    "open_issues_count": 1201,
+    "forks_count": 3941
   },
   {
     "full_name": "0xor0ne/awesome-list",
@@ -172,11 +178,5 @@
     "stargazers_count": 87,
     "open_issues_count": 2,
     "forks_count": 10
-  },
-  {
-    "full_name": "crystalattice/Algorithms_and_Interviews",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
