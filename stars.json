@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "wmgcat/42eng",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "uhub/awesome-css",
     "stargazers_count": 485,
     "open_issues_count": 6,
@@ -67,8 +73,8 @@
   },
   {
     "full_name": "observablehq/plot",
-    "stargazers_count": 3223,
-    "open_issues_count": 237,
+    "stargazers_count": 3229,
+    "open_issues_count": 239,
     "forks_count": 142
   },
   {
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "jjshoots/PyFlyt",
-    "stargazers_count": 19,
+    "stargazers_count": 22,
     "open_issues_count": 2,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "hellman/Quine-McCluskey",
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "fuchuanpu/HyperVision",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -109,7 +115,7 @@
   },
   {
     "full_name": "ChessMax/awesome-programming-languages",
-    "stargazers_count": 389,
+    "stargazers_count": 393,
     "open_issues_count": 0,
     "forks_count": 36
   },
@@ -152,7 +158,7 @@
   {
     "full_name": "DD5HT/awesome-hamradio",
     "stargazers_count": 55,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 7
   },
   {
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 51036,
-    "open_issues_count": 1216,
-    "forks_count": 4233
+    "stargazers_count": 51274,
+    "open_issues_count": 1227,
+    "forks_count": 4251
   },
   {
     "full_name": "0xor0ne/awesome-list",
-    "stargazers_count": 101,
+    "stargazers_count": 102,
     "open_issues_count": 0,
     "forks_count": 15
-  },
-  {
-    "full_name": "cheng-zhao/libast",
-    "stargazers_count": 8,
-    "open_issues_count": 1,
-    "forks_count": 2
   }
 ]
