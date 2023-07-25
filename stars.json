@@ -1,9 +1,39 @@
 [
   {
+    "full_name": "jart/jtckdint",
+    "stargazers_count": 50,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "wesleyegberto/java-new-features",
+    "stargazers_count": 231,
+    "open_issues_count": 0,
+    "forks_count": 57
+  },
+  {
+    "full_name": "o2sh/onefetch",
+    "stargazers_count": 7997,
+    "open_issues_count": 29,
+    "forks_count": 234
+  },
+  {
+    "full_name": "HarvsG/WireGuardMeshes",
+    "stargazers_count": 279,
+    "open_issues_count": 7,
+    "forks_count": 13
+  },
+  {
+    "full_name": "dabeaz-course/practical-python",
+    "stargazers_count": 8983,
+    "open_issues_count": 3,
+    "forks_count": 5516
+  },
+  {
     "full_name": "Platane/snk",
-    "stargazers_count": 2626,
-    "open_issues_count": 1,
-    "forks_count": 592
+    "stargazers_count": 2694,
+    "open_issues_count": 3,
+    "forks_count": 596
   },
   {
     "full_name": "wmgcat/42eng",
@@ -43,7 +73,7 @@
   },
   {
     "full_name": "atakanaltok/awesome-useful-websites",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -79,8 +109,8 @@
   },
   {
     "full_name": "observablehq/plot",
-    "stargazers_count": 3237,
-    "open_issues_count": 241,
+    "stargazers_count": 3242,
+    "open_issues_count": 248,
     "forks_count": 142
   },
   {
@@ -98,7 +128,7 @@
   {
     "full_name": "jjshoots/PyFlyt",
     "stargazers_count": 23,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 4
   },
   {
@@ -109,7 +139,7 @@
   },
   {
     "full_name": "fuchuanpu/HyperVision",
-    "stargazers_count": 35,
+    "stargazers_count": 39,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -122,8 +152,8 @@
   {
     "full_name": "ChessMax/awesome-programming-languages",
     "stargazers_count": 397,
-    "open_issues_count": 0,
-    "forks_count": 36
+    "open_issues_count": 2,
+    "forks_count": 37
   },
   {
     "full_name": "nickbattle/vdmj",
@@ -148,35 +178,5 @@
     "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 8
-  },
-  {
-    "full_name": "helloDestroyerOfWorlds/propeller_design_tools",
-    "stargazers_count": 19,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "lcx366/ATMOS",
-    "stargazers_count": 22,
-    "open_issues_count": 6,
-    "forks_count": 3
-  },
-  {
-    "full_name": "DD5HT/awesome-hamradio",
-    "stargazers_count": 55,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "maximecb/uvm",
-    "stargazers_count": 325,
-    "open_issues_count": 6,
-    "forks_count": 12
-  },
-  {
-    "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 51446,
-    "open_issues_count": 1228,
-    "forks_count": 4271
   }
 ]
