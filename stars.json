@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "jostylr/Reals-as-Oracles",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "risor-io/risor",
+    "stargazers_count": 316,
+    "open_issues_count": 3,
+    "forks_count": 12
+  },
+  {
+    "full_name": "TodePond/C",
+    "stargazers_count": 6355,
+    "open_issues_count": 196,
+    "forks_count": 165
+  },
+  {
     "full_name": "bytedance/sonic",
-    "stargazers_count": 5104,
-    "open_issues_count": 39,
-    "forks_count": 246
+    "stargazers_count": 5133,
+    "open_issues_count": 40,
+    "forks_count": 248
   },
   {
     "full_name": "stevesong/awesome-connectivity-info",
@@ -19,7 +37,7 @@
   },
   {
     "full_name": "andrewchambers/cc",
-    "stargazers_count": 268,
+    "stargazers_count": 269,
     "open_issues_count": 6,
     "forks_count": 16
   },
@@ -33,37 +51,37 @@
     "full_name": "jart/jtckdint",
     "stargazers_count": 60,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "wesleyegberto/java-new-features",
-    "stargazers_count": 234,
+    "stargazers_count": 235,
     "open_issues_count": 0,
     "forks_count": 59
   },
   {
     "full_name": "o2sh/onefetch",
-    "stargazers_count": 8135,
-    "open_issues_count": 21,
-    "forks_count": 235
+    "stargazers_count": 8143,
+    "open_issues_count": 25,
+    "forks_count": 236
   },
   {
     "full_name": "HarvsG/WireGuardMeshes",
-    "stargazers_count": 284,
+    "stargazers_count": 286,
     "open_issues_count": 7,
     "forks_count": 14
   },
   {
     "full_name": "dabeaz-course/practical-python",
-    "stargazers_count": 9172,
+    "stargazers_count": 9202,
     "open_issues_count": 4,
-    "forks_count": 5639
+    "forks_count": 5658
   },
   {
     "full_name": "Platane/snk",
-    "stargazers_count": 2777,
+    "stargazers_count": 2797,
     "open_issues_count": 1,
-    "forks_count": 608
+    "forks_count": 609
   },
   {
     "full_name": "wmgcat/42eng",
@@ -103,9 +121,9 @@
   },
   {
     "full_name": "atakanaltok/awesome-useful-websites",
-    "stargazers_count": 39,
-    "open_issues_count": 1,
-    "forks_count": 3
+    "stargazers_count": 42,
+    "open_issues_count": 2,
+    "forks_count": 4
   },
   {
     "full_name": "stanford-centaur/Soy",
@@ -139,8 +157,8 @@
   },
   {
     "full_name": "observablehq/plot",
-    "stargazers_count": 3257,
-    "open_issues_count": 256,
+    "stargazers_count": 3268,
+    "open_issues_count": 257,
     "forks_count": 142
   },
   {
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "jjshoots/PyFlyt",
-    "stargazers_count": 24,
+    "stargazers_count": 27,
     "open_issues_count": 2,
     "forks_count": 4
-  },
-  {
-    "full_name": "hellman/Quine-McCluskey",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "fuchuanpu/HyperVision",
-    "stargazers_count": 40,
-    "open_issues_count": 1,
-    "forks_count": 6
-  },
-  {
-    "full_name": "sschaetz/awesome-hardware-test",
-    "stargazers_count": 19,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
