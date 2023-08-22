@@ -1,21 +1,39 @@
 [
   {
-    "full_name": "dnakov/little-rat",
-    "stargazers_count": 937,
+    "full_name": "carbon-language/carbon-lang",
+    "stargazers_count": 30978,
+    "open_issues_count": 163,
+    "forks_count": 1417
+  },
+  {
+    "full_name": "lurk-lab/awesome-folding",
+    "stargazers_count": 154,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
+    "full_name": "IBM/fp-go",
+    "stargazers_count": 642,
     "open_issues_count": 2,
-    "forks_count": 33
+    "forks_count": 18
+  },
+  {
+    "full_name": "dnakov/little-rat",
+    "stargazers_count": 1074,
+    "open_issues_count": 0,
+    "forks_count": 38
   },
   {
     "full_name": "firmai/financial-machine-learning",
-    "stargazers_count": 3688,
+    "stargazers_count": 3697,
     "open_issues_count": 4,
-    "forks_count": 923
+    "forks_count": 924
   },
   {
     "full_name": "PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading",
-    "stargazers_count": 1138,
+    "stargazers_count": 1141,
     "open_issues_count": 5,
-    "forks_count": 576
+    "forks_count": 575
   },
   {
     "full_name": "quickfixgo/quickfix",
@@ -25,9 +43,9 @@
   },
   {
     "full_name": "luong-komorebi/Awesome-Linux-Software",
-    "stargazers_count": 19652,
+    "stargazers_count": 19665,
     "open_issues_count": 20,
-    "forks_count": 1946
+    "forks_count": 1950
   },
   {
     "full_name": "sorear/metamath-turing-machines",
@@ -37,45 +55,45 @@
   },
   {
     "full_name": "aolofsson/awesome-opensource-hardware",
-    "stargazers_count": 1411,
+    "stargazers_count": 1417,
     "open_issues_count": 2,
     "forks_count": 110
   },
   {
     "full_name": "defold/defold",
-    "stargazers_count": 2757,
-    "open_issues_count": 1006,
-    "forks_count": 214
+    "stargazers_count": 2765,
+    "open_issues_count": 1012,
+    "forks_count": 216
   },
   {
     "full_name": "Unity-Technologies/UnityCsReference",
-    "stargazers_count": 10715,
+    "stargazers_count": 10726,
     "open_issues_count": 8,
-    "forks_count": 2387
+    "forks_count": 2385
   },
   {
     "full_name": "mthom/scryer-prolog",
-    "stargazers_count": 1730,
-    "open_issues_count": 221,
-    "forks_count": 97
+    "stargazers_count": 1732,
+    "open_issues_count": 224,
+    "forks_count": 98
   },
   {
     "full_name": "eyereasoner/eye",
     "stargazers_count": 97,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 17
   },
   {
     "full_name": "willemt/raft",
-    "stargazers_count": 1023,
+    "stargazers_count": 1025,
     "open_issues_count": 52,
     "forks_count": 258
   },
   {
     "full_name": "id-Software/quake2-rerelease-dll",
-    "stargazers_count": 1563,
+    "stargazers_count": 1645,
     "open_issues_count": 3,
-    "forks_count": 113
+    "forks_count": 121
   },
   {
     "full_name": "jddarcy/SpeakingArchive",
@@ -85,15 +103,15 @@
   },
   {
     "full_name": "m3y54m/Embedded-Engineering-Roadmap",
-    "stargazers_count": 522,
+    "stargazers_count": 534,
     "open_issues_count": 0,
-    "forks_count": 38
+    "forks_count": 40
   },
   {
     "full_name": "google/typograms",
-    "stargazers_count": 1077,
-    "open_issues_count": 2,
-    "forks_count": 13
+    "stargazers_count": 1119,
+    "open_issues_count": 3,
+    "forks_count": 14
   },
   {
     "full_name": "pberkes/big_O",
@@ -115,31 +133,31 @@
   },
   {
     "full_name": "risor-io/risor",
-    "stargazers_count": 349,
+    "stargazers_count": 358,
     "open_issues_count": 3,
     "forks_count": 14
   },
   {
     "full_name": "TodePond/C",
-    "stargazers_count": 6629,
-    "open_issues_count": 204,
+    "stargazers_count": 6686,
+    "open_issues_count": 208,
     "forks_count": 169
   },
   {
     "full_name": "bytedance/sonic",
-    "stargazers_count": 5214,
-    "open_issues_count": 44,
-    "forks_count": 255
+    "stargazers_count": 5229,
+    "open_issues_count": 46,
+    "forks_count": 257
   },
   {
     "full_name": "stevesong/awesome-connectivity-info",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 1,
     "forks_count": 13
   },
   {
     "full_name": "andrewchambers/c",
-    "stargazers_count": 449,
+    "stargazers_count": 450,
     "open_issues_count": 16,
     "forks_count": 62
   },
@@ -151,7 +169,7 @@
   },
   {
     "full_name": "sandersn/mini-typescript",
-    "stargazers_count": 1027,
+    "stargazers_count": 1036,
     "open_issues_count": 6,
     "forks_count": 52
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 60,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "wesleyegberto/java-new-features",
-    "stargazers_count": 235,
-    "open_issues_count": 0,
-    "forks_count": 59
-  },
-  {
-    "full_name": "o2sh/onefetch",
-    "stargazers_count": 8186,
-    "open_issues_count": 22,
-    "forks_count": 236
-  },
-  {
-    "full_name": "HarvsG/WireGuardMeshes",
-    "stargazers_count": 287,
-    "open_issues_count": 7,
-    "forks_count": 14
   }
 ]
